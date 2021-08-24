@@ -89,7 +89,6 @@ public class AdvancedSearchStepDef {
         else {
             System.out.println("Created To filter is NOT displayed");
         }
-
     }
 
 
